@@ -1,5 +1,7 @@
 # JavaLearningNotes
-
+* [Lombok @Builder 用法](https://matthung0807.blogspot.com/2019/11/lombok-builder.html)
+* [Java HashMap put() 方法](https://www.runoob.com/java/java-hashmap-put.html)
+* [Java 中的問號和冒號](https://www.delftstack.com/zh-tw/howto/java/java-question-mark-colon/)
 
 ## 學習資源
 * [bilibili：遇見狂神說](https://www.bilibili.com/read/cv5702420)
