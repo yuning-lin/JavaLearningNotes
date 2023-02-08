@@ -2,6 +2,7 @@
 * [Lombok @Builder 用法](https://matthung0807.blogspot.com/2019/11/lombok-builder.html)
 * [Java HashMap put() 方法](https://www.runoob.com/java/java-hashmap-put.html)
 * [Java 中的問號和冒號](https://www.delftstack.com/zh-tw/howto/java/java-question-mark-colon/)
+* [列舉(Enum (enumerated)) 用法](https://www.tpisoftware.com/tpu/articleDetails/1432)
 
 ## 學習資源
 * [bilibili：遇見狂神說](https://www.bilibili.com/read/cv5702420)
