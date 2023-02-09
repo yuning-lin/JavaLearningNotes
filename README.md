@@ -3,6 +3,7 @@
 * [Java HashMap put() 方法](https://www.runoob.com/java/java-hashmap-put.html)
 * [Java 中的問號和冒號](https://www.delftstack.com/zh-tw/howto/java/java-question-mark-colon/)
 * [列舉(Enum (enumerated)) 用法](https://www.tpisoftware.com/tpu/articleDetails/1432)
+* [Java Stream 筆記](https://mycollegenotebook.medium.com/java-stream-%E7%AD%86%E8%A8%98-%E4%B8%8A-34df0e282fc8)
 
 ## 學習資源
 * [bilibili：遇見狂神說](https://www.bilibili.com/read/cv5702420)
